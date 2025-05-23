@@ -68,3 +68,10 @@ button#btnDelete {
 	border: 1px solid #777;
 }
 
+
+.add-del {
+	display: flex;
+	flex-direction: column;
+	align-content: flex-start;
+}
+
